@@ -60,5 +60,9 @@ Ek olarak bu çalışma dışında, oyun türleri ve platformlar bazında daha d
 
 ### Kaggle
 
+[Projenin Kaggle Linki](https://www.kaggle.com/code/alpkavas/videogame-reg-classification)
 
+--------------------------------------
+
+[Kaggle DataSet Link(videogamesales)](https://www.kaggle.com/datasets/gregorut/videogamesales)
 
