@@ -12,7 +12,7 @@ Analizde; veri temizleme, ön işleme, betimleyici istatistikler ve görselleşt
 
 Notebook dosyasının içerisinde tüm analizler ayrıntılı olarak markdown hücreleriyle açıklanmıştır.
 
-Projede kullanılan veri seti [Kaggle - Video Game Sales](https://www.kaggle.com/datasets/gregorut/videogame-sales-with-ratings) üzerinden alınmıştır.
+Projede kullanılan veri seti [Kaggle - Video Game Sales](https://www.kaggle.com/datasets/gregorut/videogamesales) üzerinden alınmıştır.
 
 - Veri 16.000+ oyun kaydı içermektedir.
 - Hedef: `Global_Sales` üzerinden regresyon, ayrıca `High_Sales` etiketiyle sınıflandırma yapılmıştır.
@@ -62,7 +62,5 @@ Ek olarak bu çalışma dışında, oyun türleri ve platformlar bazında daha d
 
 [Projenin Kaggle Linki](https://www.kaggle.com/code/alpkavas/videogame-reg-classification)
 
---------------------------------------
 
-[Kaggle DataSet Link(videogamesales)](https://www.kaggle.com/datasets/gregorut/videogamesales)
 
